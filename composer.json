@@ -1,0 +1,11 @@
+{
+    "name": "wanchaik/github-php",
+    "description": "Description of project github-php.",
+    "authors": [
+        {
+            "name": "Wanchai Kaekla",
+            "email": "wanchaik@hotmail.com"
+        }
+    ],
+    "require": {}
+}
